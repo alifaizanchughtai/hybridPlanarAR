@@ -73,21 +73,5 @@ The notebook generates:
 All processed outputs are saved as images or MP4 videos.
 
 ---
+![PartA_TaskA3_SuperGlue](https://github.com/user-attachments/assets/52ec1188-8a66-46e6-90ac-071a0b6baf9d)
 
-## 📊 Classical vs Deep Matching
-
-| Aspect | SIFT | SuperGlue |
-|------|------|-----------|
-| Feature Type | Hand-crafted | Learned |
-| Robustness | Moderate | High |
-| Matching Consistency | Frame-dependent | Context-aware |
-| AR Stability | Good | Excellent |
-
----
-
-## 📁 Dataset
-
-The project uses provided images and videos featuring a planar monitor surface.  
-Monitor corner coordinates are manually annotated in the reference frame.
-
----
